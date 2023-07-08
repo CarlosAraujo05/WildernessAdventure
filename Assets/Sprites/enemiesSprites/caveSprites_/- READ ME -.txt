@@ -1,0 +1,56 @@
+
+
+                                                         - READ ME -  
+
+
+Thank you for using the caveSprites_...part of the fantasy_ series' of assets on itch.io!
+
+
+Stuff to know - Characters and Weapon animations
+
+- Each frame is 32x32 pixels
+- Each character animation has a right facing [columns 0-3] and left facing [columns 4-7] version
+- Each animation is 4 frames EXCEPT for the RUN, ROLL, ATTACK and SPLIT animations [8 frames]
+- Each weapon has a default sprite, followed by 3 empty frames, followed by its animations
+
+- Character animations [from top to bottom]
+  - goblin_
+    - idle [row 0], run [rows 1,2], jump [idle] [row 3], jump [run] [row 4],
+      turn [row 5], hit [row 6] and death [row 7]
+  - hobgoblin_
+    - idle [row 0], run [rows 1,2], jump [idle] [row 3], jump [run] [row 4],
+      turn [row 5], hit [row 6] and death [row 7]
+  - golem_
+    - idle [row 0], run [rows 1,2], jump [idle] [row 3], jump [run] [row 4],
+      roll [rows 5,6], turn [row 7], hit [row 8] and death [row 9]
+  - slime_
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5],
+      attack [rows 6,7], split [rows 8,9], turn [row 10], hit [row 11] and death [row 12]
+
+- Weapon animations [from top to bottom]
+  - pickaxe_ [stone, iron, gold and diamond]
+    - idle [row 0, COLUMN 0 ONLY], swing [right] [row 1], swing [left] [row 2]
+
+Stuff to know - Particle animations
+
+- Each frame is 8x8 pixels
+- Each animation is 6 frames
+
+
+
+Future updates - 
+
+- Upward-facing animations 
+- Spin animation
+- Updated death animation
+- More pickaxe animations [magic!]
+- Golem boss sprite
+- Goblin king boss sprite
+
+If you have any questions or requests you can contact me at analogstudios.inc@gmail.com
+
+
+
+
+
+                                                             
